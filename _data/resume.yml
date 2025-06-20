@@ -4,12 +4,9 @@ basics:
   picture: "/assets/icons/icon-512x512.png"
   email: "bla@bla.com"
   # phone: "00000000"
-  website: "https://christianhallerx.github.io/"
+  website: "https://jonasdeschouwer.github.io/"
   summary: >
-    Quantitative scientist with 7+ years of experience of leveraging a broad stack of Programming,<br>
-    Statistical Analyses, and Machine Learning modeling techniques to make inferences and reveal valuable insights within huge volumes of numeric and textual data.
-    Working independently with minimal guidance and in a team.<br>
-    Over 15 scientific first-author publications.<br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   # location:
   #   address: "2712 Broadway St"
   #   postalCode: "CA 94115"
@@ -18,11 +15,11 @@ basics:
   #   region: "California"
   profiles:
     - network: "Github"
-      username: "ChristianHallerX"
-      url: "https://github.com/ChristianHallerX"
+      username: "JonasDeSchouwer"
+      url: "https://github.com/JonasDeSchouwer"
     - network: "LinkedIn"
-      username: "Christian Haller"
-      url: "https://www.linkedin.com/in/christian-haller/"
+      username: "Jonas De Schouwer"
+      url: "https://www.linkedin.com/in/jonas-de-schouwer/"
 work:
   - company: "XXXX"
     position: "Title"

@@ -6,9 +6,9 @@ description: >
   Cookies Policy
 ---
 
-<h1>Cookie Policy for https://www.christianhaller.me</h1>
+<h1>Cookie Policy for https://www.jonas.deschouwer.me</h1>
 
-<p>This is the Cookie Policy for https://www.christianhaller.me, accessible from https://www.christianhaller.me</p>
+<p>This is the Cookie Policy for https://www.jonas.deschouwer.me, accessible from https://www.jonas.deschouwer.me</p>
 
 <p><strong>What Are Cookies</strong></p>
 
@@ -69,5 +69,5 @@ description: >
 
 <ul>
 
-<li>By visiting this link: https://www.christianhaller.me/contact/</li>
+<li>By visiting this link: https://www.jonas.deschouwer.me/contact/</li>
 </ul>

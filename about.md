@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  About Christian Haller
+title:  About Jonas De Schouwer
 image_sliders:
   - about_cert_slider
 description: >
@@ -13,64 +13,47 @@ description: >
 
 
 <br>
-<img src="/assets/img/about/about.jpg" alt="Christian Haller about"><br>
-Barrk Sandstone at Kakadu National Park, Northern Territory, Australia / Snowdon, Wales, UK
+<img src="/assets/img/placeholder.png" alt="TODO"><br>
+Research and academic interests
 {:.figcaption style="text-align: left;"}
 
 
 ## Bio
 
-Christian holds a Ph.D. in `Marine Science`, an M.Sc. in `Geoscience`, and has a strong computer programming background.
-He has a proficiency in one of the hottest subjects of our time: `Data Science`, and developing `Machine Learning` models at scale (think Big Data).
-These models are useful to analyze data to simplify class recognition, automate interpretation, and discern cause-and-effect correlation.
-Furthermore, Christian creates, runs, and improves complex prediction systems in order to support organizations whose research and success metrics depend on accurate prediction.
-During his time in academia, Christian has sailed on offshore expeditions (scientific drilling) and published various technical papers.
+Jonas De Schouwer is a PhD student at Stanford University working on graph and geometric deep learning.
+His research focuses on developing novel neural network architectures for graph-structured data and geometric problems.
+These models are useful for analyzing complex relationships in data, automating pattern recognition, and discovering meaningful correlations in structured information.
+Furthermore, Jonas works on advancing the theoretical foundations of geometric deep learning to support applications in various domains where graph-structured data is prevalent.
 
-Outside his technical roles, Christian is a keen photographer and mountain biker - with a broad interest in emerging tech, economics, and management.
-His favorite book is "The Martian", which he read over a dozen times.
-In his downtime he and his partner pursue their passion for backpacking such as camping in the Australian Outback, the Black Forest, or the Northeast Kingdom.
+During his academic journey, Jonas has developed expertise in machine learning, deep learning, and computer science fundamentals.
+He is passionate about bridging theoretical advances with practical applications in the field of artificial intelligence.
+
+Outside his technical roles, Jonas enjoys exploring new technologies, reading research papers, and contributing to the broader machine learning community.
+He believes in the importance of open science and sharing knowledge to advance the field collectively.
 
 
 ## Education
 
-* Ph.D. in Marine Science (ML in Geoscience), University of South Florida, U.S.A. 2018. <i class="icomoon icon-file-pdf">&nbsp;<a href="https://scholarcommons.usf.edu/etd/7627/" target="_blank">Download</a>
-* M.Sc. in Geosciences, Rheinische Friedrich-Wilhelms-Universität, Germany 2012.
-* B.Sc. in Geosciences, Albert-Ludwigs-Universität Freiburg, Germany 2009.
+* PhD in Computer Science (Graph and Geometric Deep Learning), Stanford University, U.S.A. (In Progress)
+* M.Sc. in Computer Science, [Previous Institution], [Year].
+* B.Sc. in Computer Science, [Previous Institution], [Year].
 
 
-## Professional Certifications
+## Research Interests
 
-| Issuer                       | Title                                            | Code            | Date      | Verify        |
-|------------------------------|--------------------------------------------------|-----------------|-----------|---------------|
-| Scaled Agile Framework       | Certified SAFe 6 Practitioner                    | -               | Aug 2022  | <a href="https://www.credly.com/badges/728c7c6c-1d90-4c9a-8205-dd2f90eefd07/public_url" target="_blank">link</a> |
-| Linux Professional Institute | Linux Essentials Certificate                     | [010-160]       | Dec 2020  | <a href="https://lpi.org/v/LPI000469105/5vc355v5f2" target="_blank">link</a> |
-| Google                       | TensorFlow 2.X Developer Certificate             | -               | Oct 2020  | <a href="https://www.credential.net/6ad51867-2c56-4631-97bb-3ccc76f1a34f" target="_blank">link</a> |
-| Amazon Web Services          | AWS Certified Machine Learning – Specialty       | [MLS-C01]       | Oct 2020  | <a href="https://www.youracclaim.com/badges/6f202410-e310-4e03-a554-d52af5c294c3/public_url" target="_blank">link</a> |
-| Amazon Web Services          | AWS Solutions Architect – Associate              | [SAA-C02]       | Aug 2020  | <a href="https://www.youracclaim.com/badges/2a6c62c1-d6f6-4873-a0fb-1ae773029869/public_url" target="_blank">link</a> |
-| Amazon Web Services          | AWS Certified Cloud Practitioner                 | [CLF-C01]       | Jul 2020  | <a href="https://www.youracclaim.com/badges/510a55f6-76c3-4d43-bcc4-2aedac93c856/public_url" target="_blank">link</a> |
-| Python Institute             | PCAP – Certified Associate in Python Programming | [PCAP-NP-31-02] | Jun 2020  | <a href="https://www.youracclaim.com/badges/a9cac248-91a2-443b-947c-09976e4cb097/public_url" target="_blank">link</a> |
-| IBM                          | IBM Data Science Professional Certificate        | -               | Jul 2019  | <a href="https://www.youracclaim.com/badges/5e6ddd35-e1fd-4a9d-9225-1f80b21410c3/public_url" target="_blank">link</a> |
-
-<br>
-{% include image-gallery.html folder="/assets/img/about/prof_certs/" %}
-
-## Other Training
-
-| Issuer                        | Title                                                       | Date      | Verify        |
-|------------------------------ |-------------------------------------------------------------|-----------|---------------|
-| deeplearning.ai				| Generative AI with Large Language Models					  | Sep 2024  | <a href="https://coursera.org/share/169acfa53c7a637e11d76f7c76ba5997" target="_blank">link</a> |
-| deeplearning.ai				| Machine Learning (2022)									  | May 2023  | <a href="https://coursera.org/share/5992b6f865e80c0ffa9f9c10cfe5539c" target="_blank">link</a> |
-| deeplearning.ai               | Machine Learning Engineering for Production (MLOps)         | Jul 2022  | <a href="https://coursera.org/share/99f6cb2cee71c8617529eb631df8e8d8" target="_blank">link</a> |
-| DataCamp                      | Data Engineer with Python Track                             | Nov 2021  | <a href="https://www.datacamp.com/statement-of-accomplishment/track/25fd11bdd2bd4c6b6bad06a1723a84c7c1e98e70" target="_blank">link</a> |
-| NVIDIA Deep Learning Institute| Fundamentals of Deep Learning for Computer Vision           | Aug 2020  | <a href="https://courses.nvidia.com/certificates/e1614b616bf34e0da50fe3d9dcc1add3" target="_blank">link</a> |
-| deeplearning.ai               | TensorFlow Developer                                        | Jul 2020  | <a href="https://coursera.org/share/7d61540ebcff08e2811403629ae21cf3" target="_blank">link</a> |
-| UC Davis                      | Geographic Information Systems (GIS)                        | May 2020  | <a href="https://coursera.org/share/6c1ebdc14f7c7a06273023705a1c58c2" target="_blank">link</a> |
-| deeplearning.ai               | Deep Learning                                               | Feb 2020  | <a href="https://coursera.org/share/cb2956aa6a06275bc7351386825d41a5" target="_blank">link</a> |
-| Google Cloud                  | Machine Learning with TensorFlow on Google Cloud Platform   | May 2019  | <a href="https://coursera.org/share/0f671c861567a82a62445ba892c5d655" target="_blank">link</a> |
-| Stanford University           | Machine Learning                                            | Jul 2019  | <a href="https://coursera.org/share/8125f8a12b34b4dd582186b6778d1681" target="_blank">link</a> |
-| IBM                           | Advanced Data Science with IBM                              | Jun 2019  | <a href="https://coursera.org/share/d711920563faf2483c06ce04f1cc4c37" target="_blank">link</a> |
-| Stanford University           | Reservoir Geomechanics                                      | Jun 2019  | <a href="https://github.com/ChristianHallerX/Certificates/blob/master/CHaller%20-%20Stanford%20Reservoir%20Geomechanics.pdf" target="_blank">link</a> |
-| Stanford University           | Unconventional Reservoir Geomechanics                       | Jun 2019  | <a href="https://github.com/ChristianHallerX/Certificates/blob/master/CHaller%20-%20Stanford%20Unconventional%20Reservoir%20Geomechanics.pdf" target="_blank">link</a> |
+* Graph Neural Networks
+* Geometric Deep Learning
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Theoretical Machine Learning
 
 
-{% include image-gallery.html folder="/assets/img/about/other_certs/" %}
+## Skills
+
+* **Programming Languages**: Python, PyTorch, TensorFlow, C++, JavaScript
+* **Machine Learning**: Graph Neural Networks, Geometric Deep Learning, Computer Vision, NLP
+* **Tools & Frameworks**: PyTorch Geometric, DGL, NetworkX, Scikit-learn, NumPy, Pandas
+* **Research**: Academic Writing, Experimental Design, Statistical Analysis
+* **Languages**: English (Fluent), [Other Languages]

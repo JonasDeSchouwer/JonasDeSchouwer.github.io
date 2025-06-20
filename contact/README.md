@@ -5,7 +5,7 @@ hide_description: false
 description: >
   Carrier pigeons accepted, too.
 ---
-<img src="/assets/img/contact/contact.jpg" alt="Christian Haller contact">
+<img src="/assets/img/placeholder.png" alt="Jonas De Schouwer contact">
 
 Gubbio near K/T iridium outcrop, Italy
 {:.figcaption style="text-align: left;"}
@@ -37,7 +37,7 @@ Gubbio near K/T iridium outcrop, Italy
 
 <script>
   function openCalendlyPopup() {
-    Calendly.initPopupWidget({url: 'https://calendly.com/christian_haller'}); return false;
+    Calendly.initPopupWidget({url: 'https://calendly.com/jonas-de-schouwer'}); return false;
   }
 </script>
 
@@ -62,9 +62,9 @@ Gubbio near K/T iridium outcrop, Italy
 <!-- Calendly link widget end -->
 
 
-[LinkedIn]: https://www.linkedin.com/in/christian-haller/
-[GitHub]: https://github.com/ChristianHallerX/
-[ResearchGate]: https://www.researchgate.net/profile/Christian_Haller4/
-[Google Scholar]: https://scholar.google.com/citations?user=4xJhLhYAAAAJ&hl
-[E-Mail]: mailto:mail&#64;christianhaller.me
+[LinkedIn]: https://www.linkedin.com/in/jonas-de-schouwer/
+[GitHub]: https://github.com/JonasDeSchouwer/
+<!-- [ResearchGate]: https://www.researchgate.net/profile/Christian_Haller4/ -->
+<!-- [Google Scholar]: https://scholar.google.com/citations?user=4xJhLhYAAAAJ&hl -->
+[E-Mail]: mailto:jonasds&#64;stanford.edu
 

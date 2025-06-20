@@ -2,35 +2,34 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Christian Haller, Ph.D.
-  email:             mail@christianhaller.me
+  name:              Jonas De Schouwer
+  email:             jonasds@stanford.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Christian holds a Ph.D. in `Marine Science`, an M.Sc. in `Geoscience`, and has a strong computer programming background.
-    He has a proficiency in one of the hottest subjects of our time: `Data Science`, and developing `Machine Learning` models.
-    [See more...](/about/)
+    Jonas De Schouwer is an incoming PhD student at Stanford University working on graph and geometric deep learning.
+    His research focuses on [TODO]
 
   # This photo will be used in the about section
   picture:
-    path:            https://ChristianHallerX.github.io/assets/icons/icon-192x192.png
+    path:            https://JonasDeSchouwer.github.io/assets/icons/icon-263x263.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://ChristianHallerX.github.io/assets/icons/icon-384x384.png
-      2x:            https://ChristianHallerX.github.io/assets/icons/icon-512x512.png
+      1x:            https://JonasDeSchouwer.github.io/assets/icons/icon-263x263.png
+      2x:            https://JonasDeSchouwer.github.io/assets/icons/icon-512x512.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    linkedin:        christian-haller
-    calendly:        christian_haller/30-min-call-on-google-meet
-    email:           mail@christianhaller.me
-    github:          ChristianHallerX
-    google-scholar:  4xJhLhYAAAAJ&hl
-    researchgate:    Christian_Haller4
-    #cv:              https://docs.google.com/document/d/1CDO0WQcwpnmia_fosRdELAl8MzRlk_RM6tQMCr5ra50/edit?usp=sharing
+    linkedin:        jonas-de-schouwer
+    email:           jonasds@stanford.edu
+    github:          JonasDeSchouwer
+    # calendly:        jonas-de-schouwer/30-min-call-on-google-meet
+    # cv:              TODO
+    # google-scholar:   TODO
+    # researchgate:     TODO
 
     # resume:          /resume/
     # stackoverflow:   <number>

@@ -36,7 +36,7 @@ galleries3:
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-<img src="/assets/img/photography/Snapping.jpg" alt="Christian Haller photography">
+<img src="/assets/img/placeholder.png" alt="Jonas De Schouwer photography">
 
 Boyd Hill Nature Park, St. Petersburg, Florida
 {:.figcaption style="text-align: left;"}

@@ -14,15 +14,15 @@ rm -rf _site
 mkdir _site
 
 # clone remote repo to "_site"
-git clone https://${GH_TOKEN}@github.com/ChristianHallerX/ChristianHallerX.github.io --branch master _site
+git clone https://${GH_TOKEN}@github.com/JonasDeSchouwer/JonasDeSchouwer.github.io --branch master _site
 
 # build with Jekyll into "_site"
 # exec jekyll build
 
 # push empty commit
 cd _site
-git config user.email "christian_haller@gmx.de"
-git config user.name "ChristianHallerX"
+git config user.email "jonasdeschouwer@gmail.com"
+git config user.name "JonasDeSchouwer"
 git commit -a -m "rebuild GH pages script" --allow-empty
 git push origin master
 

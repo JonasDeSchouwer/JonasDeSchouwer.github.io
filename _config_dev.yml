@@ -4,8 +4,8 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                    https://www.christianhaller.me
-#url:                   https://christianhallerx.github.io/
+url:                    https://www.jonas.deschouwer.me
+#url:                   https://jonasdeschouwer.github.io/
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -24,33 +24,29 @@ baseurl:               ''
 lang:     en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:    Christian Haller Ph.D.
+title:    Jonas De Schouwer
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-          Christian Haller Ph.D. 
+          Jonas De Schouwer - Graph and Geometric Deep Learning Researcher
 
 # A shorter description for the sidebar.
 tagline:               >
-          AI/ML Scientist --- Developer
-          Published Author
+          Graph and Geometric Deep Learning Researcher
+          PhD Student at Stanford
 
 # A list of keywords for your blog
 keywords: [
-          'AI',
-          'Geoscience',
-          'Geophysics',
-          'Geochemistry',
-          'Blog',
-          'Data Science',
-          'Data Analytics',
-          'Coding',
-          'Programming',
+          'Graph Neural Networks',
+          'Geometric Deep Learning',
           'Machine Learning',
-          'Python',
-          'Tensorflow',
-          'Developer',
+          'Deep Learning',
+          'Research',
+          'Stanford',
+          'PhD',
+          'Computer Science',
+          'Blog',
           'Tutorials',
           'Tips'
           ]
@@ -58,20 +54,18 @@ keywords: [
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                /assets/icons/icon-512x512.png
+logo:                /assets/icons/icon-263x263.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:              Christian Haller
-  email:             mail@christianhaller.me
-  picture:           /assets/icons/icon-512x512.png
+  name:              Jonas De Schouwer
+  email:             jonasds@stanford.edu
+  picture:           /assets/icons/icon-263x263.png
   social:
-    linkedin:        christian-haller
-    github:          ChristianHallerX
-    researchgate:    Christian_Haller4
-    email:           mail@christianhaller.me
-    cv:              https://docs.google.com/document/d/1CDO0WQcwpnmia_fosRdELAl8MzRlk_RM6tQMCr5ra50/edit?usp=sharing
+    linkedin:        jonas-de-schouwer
+    github:          JonasDeSchouwer
+    email:           jonasds@stanford.edu
 
 # Add links to the sidebar.
 menu:
@@ -99,7 +93,7 @@ menu:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved. Hosted on GitHub, made with https://hydejack.com/
+copyright:             © 2025. All rights reserved. Hosted on GitHub, made with https://hydejack.com/
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/

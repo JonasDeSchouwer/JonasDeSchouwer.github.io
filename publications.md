@@ -14,6 +14,10 @@ description:     >
   Here are some highlights:
 ---
 
-<i class="icomoon icon-googlescholar"></i> <a href="https://scholar.google.com/citations?user=4xJhLhYAAAAJ&hl" target="_blank">Google Scholar Profile</a>
+<!-- TODO -->
 
-<i class="icomoon icon-researchgate"></i> <a href="https://www.researchgate.net/profile/Christian_Haller4" target="_blank">ResearchGate Profile</a>
+<i class="icomoon icon-googlescholar"></i> I don't have a Google Scholar profile yet ...
+<!-- <a href="https://scholar.google.com/citations?user=4xJhLhYAAAAJ&hl" target="_blank">Google Scholar Profile</a> -->
+
+<i class="icomoon icon-researchgate"></i> I don't have a ResearchGate profile yet ...
+<!-- <a href="https://www.researchgate.net/profile/Christian_Haller4" target="_blank">ResearchGate Profile</a> -->
