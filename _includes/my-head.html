@@ -1,0 +1,33 @@
+{% comment %}
+<!--
+Using `preload` so that page rendering doesn't get blocked.
+Fill in `href`. You may have to adjust `as` and `onload`/`rel`, depending on content.
+-->
+<link href="<path/to/content.css>" rel="preload" as="style" onload="this.rel='stylesheet'">
+
+<!--
+Fallback in case JavaScript isn't enabled.
+Fill in `href`. You may have to adjust `rel`.
+-->
+<noscript><link href="<path/to/content.css>" rel="stylesheet"></noscript>
+{% endcomment %}
+
+<!-- slider -->
+{% include slider_styles.html %}
+
+<!-- add the clap button style & script -->
+<link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css" />
+<script type="module" src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
+<style>applause-button { --applause-button-color: var(--accent-color) }</style>
+  
+<meta property="og:url" content="https://www.christianhaller.me" />
+<meta property="og:image" content="https://www.christianhaller.me/assets/img/Website_Preview.png" />
+<meta property="og:image:url" content="https://www.christianhaller.me/assets/img/Website_Preview.png" />
+<meta property="og:image:secure_url" content="https://www.christianhaller.me/assets/img/Website_Preview.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:alt" content="Website Screenshot" />
+<meta property="og:type" content="website" />
+<meta property="og:image:width" content="637" />
+<meta property="og:image:height" content="403" />
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+

@@ -1,0 +1,219 @@
+basics:
+  name: "John Doe"
+  # label: "Title"
+  picture: "/assets/icons/icon-512x512.png"
+  email: "bla@bla.com"
+  # phone: "00000000"
+  website: "https://christianhallerx.github.io/"
+  summary: >
+    Quantitative scientist with 7+ years of experience of leveraging a broad stack of Programming,<br>
+    Statistical Analyses, and Machine Learning modeling techniques to make inferences and reveal valuable insights within huge volumes of numeric and textual data.
+    Working independently with minimal guidance and in a team.<br>
+    Over 15 scientific first-author publications.<br>
+  # location:
+  #   address: "2712 Broadway St"
+  #   postalCode: "CA 94115"
+  #   city: "San Francisco"
+  #   countryCode: "US"
+  #   region: "California"
+  profiles:
+    - network: "Github"
+      username: "ChristianHallerX"
+      url: "https://github.com/ChristianHallerX"
+    - network: "LinkedIn"
+      username: "Christian Haller"
+      url: "https://www.linkedin.com/in/christian-haller/"
+work:
+  - company: "XXXX"
+    position: "Title"
+    website: "https://bla.com"
+    startDate: "2020-02-03"
+    endDate: ""
+    #summary: >
+    highlights:
+      - "Bullet Point"
+      
+  - company: "XXXX"
+    position: "Title"
+    website: "https://bla.com"
+    startDate: "2019-06-24"
+    endDate: "2019-08-30"
+    summary:
+    highlights:
+      - "Bullet Point"
+      - "Bullet Point"
+      
+  - company: "XXXXX"
+    position: "Title"
+    website: "https://bla.com"
+    startDate: "2019-01-03"
+    endDate: "2019-02-28"
+    #summary: >
+    highlights:
+      - "Bullet Point"
+      - "Bullet Point"
+      - "Bullet Point"
+      
+  - company: "XXXX"
+    position: "Title"
+    website: "https://bla.com"
+    startDate: "2018-07-08"
+    endDate: "2018-08-24"
+    # summary: >
+    highlights:
+      - "Bullet Point"
+      - "Bullet Point"
+volunteer:
+  - organization: "XXXXX"
+    position: "Title"
+    website: "https://bla.com"
+    startDate: "2018-03-02"
+    endDate: "2018-12-21"
+    #summary: >
+    highlights:
+      - "Bullet Point"
+      - "Bullet Point"
+      - "Bullet Point"
+      
+  - organization: "XXXX"
+    position: "Title"
+    website: "https://bla.com"
+    startDate: "2014-03-02"
+    endDate: "2014-12-18"
+    #summary: >
+    highlights:
+    
+education:
+  - institution: "Uni X"
+    area: "Subject"
+    studyType: "Degree Type"
+    startDate: "2014-03-02"
+    endDate: "2020-02-21"
+    gpa: "4.0 (major 4.28) / 4.5"
+    courses:
+      - "Course"
+      - "Course"
+      - "Course"
+      - "Course"
+      - "Course"
+      - "Course"
+  - certificate: "Certificate Title"
+    date: "2019-11-22"
+    
+projects:
+  - title: "Project Name"
+    startDate: "2018-08-01"
+    endDate: "2019-10-31"
+    # summary: ""
+    url: "https://bla.com"
+    highlights:
+      - "Bullet Point"
+      - "Bullet Point"
+      - "Bullet Point"
+      
+  - title: "Project Name"
+    startDate: "2019-10-01"
+    endDate: "2019-10-31"
+    # summary: ""
+    url: "https://bla.com"
+    highlights:
+      - "Bullet Point"
+      - "Bullet Point"
+      - "Bullet Point"
+      
+  - title: "Project Name"
+    startDate: "2018-03-02"
+    endDate: "2018-06-22"
+    # summary: ""
+    url: "https://bla.com"
+    highlights:
+      - "Bullet Point"
+      - "Bullet Point"
+      - "Bullet Point"
+      
+awards:
+  - title: "Award Name"
+    awarder: "Organization Name"
+    highlights:
+      - "Bullet Point"
+      - "Bullet Point"
+      
+  - title: "Award Name"
+    awarder: "Organization Name"
+    highlights:
+      - "Bullet Point"
+      - "Bullet Point"
+      - "Bullet Point"
+      
+  - title: "Award Name"
+    date: "2018-11-17"
+    awarder: "Organization Name"
+    summary: ""
+    
+  - title: "Award Name"
+    date: "2017-12-09"
+    awarder: "Organization Name"
+    summary: ""
+    
+  - title: "Award Name"
+    date: "2017-09-09"
+    awarder: "Organization Name"
+    summary: ""
+# publications:
+#   - name: "Video compression for 3d media"
+#     publisher: "Hooli"
+#     releaseDate: "2014-10-01"
+#     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+#     summary: "Innovative middle-out compression algorithm that changes the way we store data."
+skills:
+  - name: "Skill Name"
+    level: "Advanced"
+    keywords:
+      - "Bullet Point"
+      - "Bullet Point"
+      - "Bullet Point"
+      
+  - name: "Skill Name"
+    level: "Advanced"
+    
+  - name: "Skill Name"
+    level: "Beginner"
+    keywords:
+      - "Bullet Point"
+      - "Bullet Point"
+      - "Bullet Point"
+      
+  - name: "Skill Name"
+    level: "Master"
+    keywords:
+      - "Bullet Point"
+      - "Bullet Point"
+      
+languages:
+  - language: "Language 1"
+    fluency: "Native speaker"
+  - language: "Language 2"
+    fluency: "Fluent"
+interests:
+  - name: "Activity"
+    keywords:
+      - "Bullet Point"
+      - "Bullet Point"
+      - "Bullet Point"
+  - name: "Reading"
+    keywords:
+      - "Bullet Point"
+      - "Bullet Point"
+      - "Bullet Point"
+  - name: "Interest 3"
+    keywords:
+      - "Bullet Point"
+      - "Bullet Point"
+      - "Bullet Point"
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.
+
+# <https://jsonresume.org/>
