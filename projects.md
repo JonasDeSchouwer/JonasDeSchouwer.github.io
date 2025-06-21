@@ -1,7 +1,7 @@
 ---
-layout:         grid
-title:          Project Blog
-slug:           hydejack
+layout:         projects
+title:          Projects
+show_collection: projects
 menu:           true
 order:          1
 no_link_title:  false 

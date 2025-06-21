@@ -172,11 +172,6 @@ defaults:
       seo:
         type:          WebPage
   - scope:
-      type:            featured_categories
-    values:
-      seo:
-        type:          WebPage
-  - scope:
       type:            featured_tags
     values:
       seo:
@@ -323,7 +318,16 @@ collections:
 
   projects:
     permalink:         /projects/:path/
-    output:            false
+    output:            true
+
+  blog:
+    output:            true
+
+  research:
+    output:            true
+
+  news:
+    output:            true
 
 
 # File inclusion/exclusion
