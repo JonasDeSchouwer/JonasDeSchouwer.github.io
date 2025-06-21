@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  About Jonas De Schouwer
+title:  About Me
 image_sliders:
   - about_cert_slider
 description: >
@@ -12,48 +12,26 @@ description: >
 {:toc}
 
 
-<br>
-<img src="/assets/img/placeholder.png" alt="TODO"><br>
-Research and academic interests
-{:.figcaption style="text-align: left;"}
 
 
 ## Bio
 
-Jonas De Schouwer is a PhD student at Stanford University working on graph and geometric deep learning.
-His research focuses on developing novel neural network architectures for graph-structured data and geometric problems.
-These models are useful for analyzing complex relationships in data, automating pattern recognition, and discovering meaningful correlations in structured information.
-Furthermore, Jonas works on advancing the theoretical foundations of geometric deep learning to support applications in various domains where graph-structured data is prevalent.
+I am an incoming PhD student at Stanford University with a strong interest in graph-based learning. I recently completed his MSc in Advanced Computer Science at the University of Oxford, where I developed worked on k-MIP attention for graph transformers for my dissertation under the supervision of Prof. Xiaowen Dong. I further conducted summer internships at three different machine learning startups.
 
-During his academic journey, Jonas has developed expertise in machine learning, deep learning, and computer science fundamentals.
-He is passionate about bridging theoretical advances with practical applications in the field of artificial intelligence.
-
-Outside his technical roles, Jonas enjoys exploring new technologies, reading research papers, and contributing to the broader machine learning community.
-He believes in the importance of open science and sharing knowledge to advance the field collectively.
+Beyond my technical work, I am a keen runner, hockey player, hiker, and skier, and enjoy the occasional chess game. I also dedicate time volunteering as a mentor at the Flemish IMO training programme and as a teacher at a chess summer camp.
 
 
 ## Education
 
-* PhD in Computer Science (Graph and Geometric Deep Learning), Stanford University, U.S.A. (In Progress)
-* M.Sc. in Computer Science, [Previous Institution], [Year].
-* B.Sc. in Computer Science, [Previous Institution], [Year].
+* PhD in Computer Science, Stanford University, 2025-2030
+* M.Sc. in Advanced Computer Science, University of Oxford, 2023-2024
+* B.Sc. in Engineering Science (Major Computer Science), KU Leuven, 2020-2023
 
 
 ## Research Interests
 
 * Graph Neural Networks
 * Geometric Deep Learning
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Theoretical Machine Learning
-
-
-## Skills
-
-* **Programming Languages**: Python, PyTorch, TensorFlow, C++, JavaScript
-* **Machine Learning**: Graph Neural Networks, Geometric Deep Learning, Computer Vision, NLP
-* **Tools & Frameworks**: PyTorch Geometric, DGL, NetworkX, Scikit-learn, NumPy, Pandas
-* **Research**: Academic Writing, Experimental Design, Statistical Analysis
-* **Languages**: English (Fluent), [Other Languages]
+* Core ML
+* ML Theory
+* Applications of mathematics in ML
