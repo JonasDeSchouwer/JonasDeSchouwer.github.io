@@ -16,7 +16,7 @@ description: >
 
 ## Bio
 
-I am an incoming PhD student at Stanford University with a strong interest in graph-based learning. I recently completed his MSc in Advanced Computer Science at the University of Oxford, where I developed worked on k-MIP attention for graph transformers for my dissertation under the supervision of Prof. Xiaowen Dong. I further conducted summer internships at three different machine learning startups.
+I am an incoming PhD student at Stanford University with a strong interest in graph-based learning. I recently completed my MSc in Advanced Computer Science at the University of Oxford, where I worked on k-MIP attention for graph transformers for my dissertation under the supervision of Prof. Xiaowen Dong. I further conducted summer internships at three different machine learning startups.
 
 Beyond my technical work, I am a keen runner, hockey player, hiker, and skier, and enjoy the occasional chess game. I also dedicate time volunteering as a mentor at the Flemish IMO training programme and as a teacher at a chess summer camp.
 
